@@ -1,1 +1,1 @@
-This is a git-flow test.
+This is a git-rebase test.
