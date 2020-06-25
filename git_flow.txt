@@ -1,10 +1,2 @@
-<<<<<<< HEAD
 This is a git-rebase test.
 This is a git-rebase test from branch test-rebase.
-=======
-This is a git-rebase test from branch test-rebase.
-<<<<<<< HEAD
->>>>>>> a38be4c... update line 1
-=======
->>>>>>> a38be4c33f766a823c054cc28dc265d1919a5570
->>>>>>> e07cb2084518de01186f681d0f7ba603d0d9e98c
