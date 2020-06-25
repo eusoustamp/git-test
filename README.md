@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # This was written in develop branch!
+=======
+# This was written in Master Branch
+>>>>>>> master
 ## Git
 ### Git
 #### Git
